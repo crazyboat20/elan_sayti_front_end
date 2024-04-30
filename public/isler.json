@@ -1,0 +1,52 @@
+{
+    "isler":[
+        {
+            "id":"0",
+            "is":"Kuryer",
+            "sekil":"https://www.runner.az/themes/jis_site/img/index_become.png",
+            "haqqinda":"bir yerden basqa yere dasimaq lazimdi"
+        },
+        {
+            "id":"1",
+            "is":"Formatci",
+            "sekil":"https://prodatarecover.com/wp-content/uploads/2017/05/shutterstock_575116213.jpg",
+            "haqqinda":"kompuyutere format atmaq lazimdi"
+        },
+        {
+            "id":"2",
+            "is":"Kuryer",
+            "sekil":"https://www.runner.az/themes/jis_site/img/index_become.png",
+            "haqqinda":"bir yerden basqa yere dasimaq lazimdi"
+        },
+        {
+            "id":"3",
+            "is":"Formatci",
+            "sekil":"https://prodatarecover.com/wp-content/uploads/2017/05/shutterstock_575116213.jpg",
+            "haqqinda":"kompuyutere format atmaq lazimdi"
+        },
+        {
+            "id":"4",
+            "is":"Kuryer",
+            "sekil":"https://www.runner.az/themes/jis_site/img/index_become.png",
+            "haqqinda":"bir yerden basqa yere dasimaq lazimdi"
+        },
+        {
+            "id":"5",
+            "is":"Formatci",
+            "sekil":"https://prodatarecover.com/wp-content/uploads/2017/05/shutterstock_575116213.jpg",
+            "haqqinda":"kompuyutere format atmaq lazimdi"
+        },
+        {
+            "id":"6",
+            "is":"Kuryer",
+            "sekil":"https://www.runner.az/themes/jis_site/img/index_become.png",
+            "haqqinda":"bir yerden basqa yere dasimaq lazimdi"
+        },
+        {
+            "id":"7",
+            "is":"Formatci",
+            "sekil":"https://prodatarecover.com/wp-content/uploads/2017/05/shutterstock_575116213.jpg",
+            "haqqinda":"kompuyutere format atmaq lazimdi"
+        }
+    ]
+}

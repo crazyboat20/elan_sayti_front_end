@@ -1,0 +1,45 @@
+body{
+  font-size: 16px;
+  background-color: #effafb;
+  zoom:100%;/*150*/
+}
+
+.butun-elanlar{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 984px;
+    margin:0 auto;
+}
+
+.elan-karti{
+    display: flex;
+    flex-direction: column;
+    width: 210px;
+    height: 230px;
+    margin:20px 10px;
+    border:1px solid #c9c7c7;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow:0px 0px 10px 1px  grey, 0px 0px 10px 1px grey;
+}
+
+.elan-karti:hover{
+    box-shadow:0px 0px 15px 1px  grey, 0px 0px 15px 1px grey;
+}
+
+.is-adi{
+    width: 100%;
+    height: 80px;
+    padding-left: 2px;
+}
+
+@media only screen and (max-width: 991px){
+  .search-bar input{
+    width: 200px;
+  }
+  .search-bar{
+    padding-right: 70px;
+  }
+}
